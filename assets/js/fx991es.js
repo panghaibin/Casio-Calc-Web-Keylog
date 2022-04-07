@@ -261,7 +261,7 @@ jQuery.fn.keyboard = function(options){
 			$keyboard.fadeOut(0);
 			$ico.removeClass('active');
 		});
-		console.log("\u3010HBTech.ml\u3011\u00a9\u7248\u6743\u6240\u6709\uff0c\u672c\u7ad9\u62e5\u6709\u4ee3\u7801\u7684\u6700\u7ec8\u89e3\u91ca\u6743\uff0c\u5361\u897f\u6b27\u662f\u5927\u50bb\u903c\uff01");
+		console.log("\u3010HBTe.ch\u3011\u00a9\u7248\u6743\u6240\u6709\uff0c\u672c\u7ad9\u62e5\u6709\u4ee3\u7801\u7684\u6700\u7ec8\u89e3\u91ca\u6743\uff0c\u5361\u897f\u6b27\u662f\u5927\u50bb\u903c\uff01");
 		$keyboard.on('click', '.b-menu__item', function(){
 			options.lang = $(this).attr('rel');
 			
