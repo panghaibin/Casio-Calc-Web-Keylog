@@ -4,7 +4,9 @@
 
 https://user-images.githubusercontent.com/63835145/162141926-1dd96a5d-d955-498e-9db8-42aab7057d66.mp4
 
+在线使用：https://panghb.eu.org/Casio-Calc-Web-Keylog/
 
+项目主页：https://github.com/panghaibin/Casio-Calc-Web-Keylog
 
 一个可以在网页端记录卡西欧计算器按键的项目
 
