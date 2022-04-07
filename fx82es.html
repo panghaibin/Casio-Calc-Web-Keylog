@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>fx-82/350/95ES(PLUS) 按键记录器</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="./assets/css/stylesheet.css" type="text/css" charset="utf-8" />
+  <link type="text/css" rel="stylesheet" media="all" href="./assets/css/fx82cnx.css" />
+  <script src="./assets/js/jquery.min.js"></script>
+  <script src="./assets/js/fx82es.js"></script>
+  <style type="text/css">
+    html,body{
+      font-family: "Microsoft Yahei";
+      height: 95%;
+    }
+    h1{
+      width: 95%;
+      margin:0 auto;
+    }h2{
+      width: 85%;
+      margin:0 auto;
+    }span{
+      font-family: "es";
+    }textarea{
+      font-family: "es";
+      font-size: 1.3em;
+      color: black;
+      height: 10% ;
+      width: 100% ;
+      resize: none;
+      background:transparent;
+    }
+  </style>  
+</head>
+<body>
+<!--
+<h1>ClassWiz fx-82/350/95CN X 按键记录器</h1>
+<p>通过使用本工具，可以方便的使用并生成计算器按键字体，要在您的网站上显示这些字体，需要引入对应的计算器按键字体。</p>
+-->
+<textarea class="keyboard" disabled="disabled" ></textarea>
+</body>
+  <script>
+    $(function(){
+      $('.keyboard').keyboard({
+        lang:'en'
+      });
+  })
+  </script>
+</html>
