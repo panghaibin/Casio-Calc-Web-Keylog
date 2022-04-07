@@ -1,22 +1,22 @@
 @font-face {
-    font-family: 'cw';
-    src: url('//hbtech.oss-cn-shenzhen.aliyuncs.com/font/casio_classwiz-webfont.eot');
-    src: url('//hbtech.oss-cn-shenzhen.aliyuncs.com/font/casio_classwiz-webfont.eot?#iefix') format('embedded-opentype'),
-         url('//hbtech.oss-cn-shenzhen.aliyuncs.com/font/casio_classwiz-webfont.woff2') format('woff2'),
-         url('//hbtech.oss-cn-shenzhen.aliyuncs.com/font/casio_classwiz-webfont.woff') format('woff'),
-         url('//hbtech.oss-cn-shenzhen.aliyuncs.com/font/casio_classwiz-webfont.ttf') format('truetype'),
-         url('//hbtech.oss-cn-shenzhen.aliyuncs.com/font/casio_classwiz-webfont.svg#casio_classwizregular') format('svg');
+    font-family: 'CASIO ClassWiz';
+    src: url('../font/casio_classwiz-webfont.eot');
+    src: url('../font/casio_classwiz-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../font/casio_classwiz-webfont.woff2') format('woff2'),
+         url('../font/casio_classwiz-webfont.woff') format('woff'),
+         url('../font/casio_classwiz-webfont.ttf') format('truetype'),
+         url('../font/casio_classwiz-webfont.svg#casio_classwizregular') format('svg');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
-    font-family: 'es';
-    src: url('//hbtech.oss-cn-shenzhen.aliyuncs.com/font/es03-webfont.eot');
-    src: url('//hbtech.oss-cn-shenzhen.aliyuncs.com/font/es03-webfont.eot?#iefix') format('embedded-opentype'),
-         url('//hbtech.oss-cn-shenzhen.aliyuncs.com/font/es03-webfont.woff2') format('woff2'),
-         url('//hbtech.oss-cn-shenzhen.aliyuncs.com/font/es03-webfont.woff') format('woff'),
-         url('//hbtech.oss-cn-shenzhen.aliyuncs.com/font/es03-webfont.ttf') format('truetype'),
-         url('//hbtech.oss-cn-shenzhen.aliyuncs.com/font/es03-webfont.svg#es03regular') format('svg');
+    font-family: 'ES03';
+    src: url('../font/es03-webfont.eot');
+    src: url('../font/es03-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../font/es03-webfont.woff2') format('woff2'),
+         url('../font/es03-webfont.woff') format('woff'),
+         url('../font/es03-webfont.ttf') format('truetype'),
+         url('../font/es03-webfont.svg#es03regular') format('svg');
     font-weight: normal;
     font-style: normal;
 }
